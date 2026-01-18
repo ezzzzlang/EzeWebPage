@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    border-radius: 20px;
+    height: 5cm;
+    width: 100%;
+    background-color: rgb(255, 232, 147);
+    z-index: 0;
+}
+
+img {
+    height: 160px;
+    width: 170px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+h1 {
+    z-index: 0;
+    margin-top: -10%;
+    margin-left: 14%;
+    font-family: 'DM Serif Display', serif;
+    font-style: serif;
+}
+
+h2 {
+    margin-left: 14%;
+}
+
+.d1 {
+    border-radius: 20px;
+    background-color: rgb(163, 163, 163);
+    margin-top: 0.5%;
+    width: 49%;
+    height: 100%;
+    text-align: center;
+}
+.d2 {
+    border-radius: 20px;
+    background-color: rgb(163, 163, 163);
+    margin-top: -2.5%;
+    margin-left: 50%;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
